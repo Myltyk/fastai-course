@@ -18,7 +18,7 @@ I completed the first assignment by building and training a musical instrument i
 
 ## Notebook
 
-`is-it-a-dombra.ipynb`
+[`is-it-a-dombra.ipynb`](https://github.com/Myltyk/fastai-course/blob/main/lesson-01-musical-instrument-classifier/is-it-a-dombra.ipynb)
 
 The notebook contains the code and steps used to create the classifier.
 
