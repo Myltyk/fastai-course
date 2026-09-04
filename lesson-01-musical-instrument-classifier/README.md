@@ -8,7 +8,7 @@ I adapted the original "Is it a bird?" exercise to classify three musical instru
 * Guitar
 * Violin
 
-The model is built using **Fast.ai** and **ResNet18** with transfer learning.
+The model is built using **Fast.ai** and **ResNet34** with transfer learning.
 
 ## Assignment 1
 
