@@ -14,7 +14,7 @@ The model is built using **Fast.ai** and **ResNet34** with transfer learning.
 
 I completed the first assignment by building and training a musical instrument image classifier.
 
-**My video:** [Assignment 1 — Musical Instrument Classifier](YOUR_VIDEO_LINK)
+**My video:** [Is It a Dombra? — Fast.ai Lesson 1 Assignment](https://youtu.be/4Z3sl2eJ4P8?si=zQt8v9Ath-sndGmZ)
 
 ## Notebook
 
